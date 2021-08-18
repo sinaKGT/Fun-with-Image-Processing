@@ -13,7 +13,17 @@ Some image processing project that i work on for fun📷🧱
 ## *Project 4: Background Removal*
 - *✔ This project is usecase of image segmentation that allow us to remove image back ground in realtime like zoom video confreace* 🖼
 
+## *Project 5: Object Mesesurement*
+- *✔ This project is usecase of technic called Contours which help us to find curev objects in the seen and use for object detection and object recognation*  📏
 
+ ## *Project 6: Test Grader *
+- *✔ This project is a system which read our test exam and show the results in the second we can use this in the school or for our self* 🎓
+
+## *Project 7: Finger Counting *
+- *✔ This project is a system use hand traking to find our fingers and calculate the number of fingers in the screen* 🖐👆🖖🤘
+
+## *Project 8: Motion Tracking(AntiThef)*
+- *✔ This project is a system that find someone that goes to the room and take picture of him and save with date time* 📷
 _______________
 ## How To Use Projects?🚀🚀
 *Step 1)* create a virtual enviroment in porject directory
